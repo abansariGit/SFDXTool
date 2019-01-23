@@ -5,6 +5,13 @@
         <language>en_US</language>
         <protected>true</protected>
         <shortDescription>THIS IS AWESOME</shortDescription>
-        <value>AWESOME</value>
+        <value>AWESOME Too</value>
+    </labels>
+    <labels>
+        <fullName>testLabel</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>testLabel</shortDescription>
+        <value>testlable</value>
     </labels>
 </CustomLabels>
